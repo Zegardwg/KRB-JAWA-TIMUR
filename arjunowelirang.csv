@@ -1,0 +1,14 @@
+Kabupaten/Kota;Kecamatan;Luas (Ha) Rendah;Luas (Ha) Sedang;Luas (Ha) Tinggi;Total (Ha);Kelas Bahaya
+Malang;Kepanjen;1234;0;0;1234;Rendah
+Malang;Lawang;0;0;0;0;Rendah
+Malang;Dau;0;0;0;0;Rendah
+Pasuruan;Bangil;3412;600;300;4312;Tinggi
+Pasuruan;Purwodadi;1500;187;11;1698;Tinggi
+Pasuruan;Pandaan;0;0;0;0;Sedang
+Pasuruan;Sukorejo;0;0;0;0;Sedang
+Mojokerto;Mojosari;2000;1000;500;3500;Tinggi
+Mojokerto;Pungging;1488;674;333;2495;Tinggi
+Mojokerto;Sooko;0;0;0;0;Rendah
+Kota Batu;Batu;2989;492;77;3558;Tinggi
+Kota Batu;Bumiaji;0;0;0;0;Rendah
+Kota Batu;Junrejo;0;0;0;0;Rendah
