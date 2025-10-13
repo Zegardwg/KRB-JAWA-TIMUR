@@ -1,4 +1,4 @@
-No;Kabupaten/kota;Kelas Bahaya;Kelas Kerentanan;Kelas Kapasitas;Kelas Risiko
-1;MALANG;TINGGI;TINGGI;SEDANG;TINGGI
-2;LUMAJANG;TINGGI;TINGGI;SEDANG;TINGGI
-;Provinsi Jawa Timur;TINGGI;TINGGI;SEDANG;TINGGI
+No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas
+1;MALANG;6.909;1.065;2.143;10.117;TINGGI
+2;LUMAJANG;12.164;5.467;4.460;22.091;TINGGI
+;Provinsi Jawa Timur;19.073;6.532;6.603;32.208;TINGGI

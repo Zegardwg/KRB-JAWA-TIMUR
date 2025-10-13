@@ -1,4 +1,4 @@
-No;Kabupaten/kota;Kelas Bahaya;Kelas Kerentanan;Kelas Kapasitas;Kelas Risiko
-1;MAGETAN;SEDANG;SEDANG;SEDANG;SEDANG
-2;NGAWI;SEDANG;SEDANG;SEDANG;SEDANG
-;Provinsi Jawa Timur;SEDANG;SEDANG;SEDANG;SEDANG
+No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas
+1;MAGETAN;5.060;4.282;0;9.341;SEDANG
+2;NGAWI;5.456;2.170;0;7.626;SEDANG
+;Provinsi Jawa Timur;10.515;6.452;-;16.967;SEDANG

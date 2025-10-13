@@ -1,8 +1,8 @@
-No;Kabupaten/kota;Kelas Bahaya;Kelas Kerentanan;Kelas Kapasitas;Kelas Risiko
-A;Kabupaten;;;;
-1;MALANG;RENDAH;RENDAH;SEDANG;RENDAH
-2;PASURUAN;TINGGI;TINGGI;SEDANG;TINGGI
-3;MOJOKERTO;TINGGI;TINGGI;SEDANG;TINGGI
-B;Kota;;;;
-1;KOTA BATU;TINGGI;SEDANG;SEDANG;SEDANG
-;Provinsi Jawa Timur;TINGGI;TINGGI;SEDANG;TINGGI
+No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas
+A;Kabupaten;;;;;
+1;MALANG;1.234;0;0;1.234;RENDAH
+2;PASURUAN;5.412;787;311;6.511;TINGGI
+3;MOJOKERTO;3.488;1.674;833;5.995;TINGGI
+B;Kota;;;;;
+1;KOTA BATU;2.989;492;77;3.558;TINGGI
+;Provinsi Jawa Timur;13.123;2.954;1.221;17.298;TINGGI

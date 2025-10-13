@@ -1,5 +1,5 @@
-No;Kabupaten/kota;Kelas Bahaya;Kelas Kerentanan;Kelas Kapasitas;Kelas Risiko
-1;BANYUWANGI;TINGGI;TINGGI;SEDANG;TINGGI
-2;BONDOWOSO;TINGGI;TINGGI;SEDANG;TINGGI
-3;SITUBONDO;SEDANG;SEDANG;SEDANG;SEDANG
-;Provinsi Jawa Timur;TINGGI;TINGGI;SEDANG;TINGGI
+No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas
+1;BANYUWANGI;26.166;1.375;747;28.289;TINGGI
+2;BONDOWOSO;3.999;3.234;583;7.816;TINGGI
+3;SITUBONDO;1.459;1.207;0;2.666;SEDANG
+;Provinsi Jawa Timur;31.624;5.816;1.331;38.771;TINGGI

@@ -1,5 +1,5 @@
-No;Kabupaten/kota;Kelas Bahaya;Kelas Kerentanan;Kelas Kapasitas;Kelas Risiko
-1;JEMBER;TINGGI;TINGGI;SEDANG;TINGGI
-2;BANYUWANGI;TINGGI;TINGGI;SEDANG;TINGGI
-3;BONDOWOSO;TINGGI;TINGGI;SEDANG;TINGGI
-;Provinsi Jawa Timur;TINGGI;TINGGI;SEDANG;TINGGI
+No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas
+1;JEMBER;5.843;1.772;614;8.229;TINGGI
+2;BANYUWANGI;10.449;26.653;3.264;40.366;TINGGI
+3;BONDOWOSO;9.030;5.034;2.464;16.528;TINGGI
+;Provinsi Jawa Timur;25.321;33.460;6.342;65.123;TINGGI
