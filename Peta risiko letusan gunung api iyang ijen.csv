@@ -1,5 +1,5 @@
-No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
-1;BANYUWANGI;26.166;1.375;747;28.289;TINGGI
-2;BONDOWOSO;3.999;3.234;583;7.816;TINGGI
-3;SITUBONDO;1.459;1.207;0;2.666;SEDANG
-;Provinsi Jawa Timur;31.624;5.816;1.331;38.771;TINGGI
+Jenis Peta;Nama Gunung;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
+Peta risiko letusan gunung api iyang ijen;gunung api iyang ijen;BANYUWANGI;26.166;1.375;747;28.289;TINGGI
+Peta risiko letusan gunung api iyang ijen;gunung api iyang ijen;BONDOWOSO;3.999;3.234;583;7.816;TINGGI
+Peta risiko letusan gunung api iyang ijen;gunung api iyang ijen;SITUBONDO;1.459;1.207;0;2.666;SEDANG
+Peta risiko letusan gunung api iyang ijen;gunung api iyang ijen;Provinsi Jawa Timur;31.624;5.816;1.331;38.771;TINGGI

@@ -1,10 +1,8 @@
-No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
-A;Kabupaten;;;;;
-1;TULUNGAGUNG;98;0;0;98;RENDAH
-2;BLITAR;21.386;2.375;3.890;27.650;TINGGI
-3;KEDIRI;20.799;2.251;3.039;26.088;TINGGI
-4;MALANG;10.764;1.449;1.914;14.126;TINGGI
-5;JOMBANG;1.038;0;0;1.038;RENDAH
-B;Kota;;;;;
-1;KOTA BLITAR;18;0;0;18;RENDAH
-;Provinsi Jawa Timur;54.102;6.074;8.842;69.019;TINGGI
+Jenis Peta;Nama Gunung;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
+Peta risiko letusan gunung api kelud;gunung api kelud;TULUNGAGUNG;98;0;0;98;RENDAH
+Peta risiko letusan gunung api kelud;gunung api kelud;BLITAR;21.386;2.375;3.890;27.650;TINGGI
+Peta risiko letusan gunung api kelud;gunung api kelud;KEDIRI;20.799;2.251;3.039;26.088;TINGGI
+Peta risiko letusan gunung api kelud;gunung api kelud;MALANG;10.764;1.449;1.914;14.126;TINGGI
+Peta risiko letusan gunung api kelud;gunung api kelud;JOMBANG;1.038;0;0;1.038;RENDAH
+Peta risiko letusan gunung api kelud;gunung api kelud;KOTA BLITAR;18;0;0;18;RENDAH
+Peta risiko letusan gunung api kelud;gunung api kelud;Provinsi Jawa Timur;54.102;6.074;8.842;69.019;TINGGI

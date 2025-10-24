@@ -1,7 +1,6 @@
-No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
-A;Kabupaten;;;;;
-1;MALANG;705;572;0;1.277;SEDANG
-2;LUMAJANG;909;58;0;966;SEDANG
-3;PROBOLINGGO;2.510;1.884;936;5.330;TINGGI
-4;PASURUAN;1.990;1.125;430;3.544;TINGGI
-;Provinsi Jawa Timur;6.114;3.638;1.366;11.118;TINGGI
+Jenis Peta;Nama Gunung;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
+Peta risiko letusan gunung api bromo;gunung api bromo;MALANG;705;572;0;1.277;SEDANG
+Peta risiko letusan gunung api bromo;gunung api bromo;LUMAJANG;909;58;0;966;SEDANG
+Peta risiko letusan gunung api bromo;gunung api bromo;PROBOLINGGO;2.510;1.884;936;5.330;TINGGI
+Peta risiko letusan gunung api bromo;gunung api bromo;PASURUAN;1.990;1.125;430;3.544;TINGGI
+Peta risiko letusan gunung api bromo;gunung api bromo;Provinsi Jawa Timur;6.114;3.638;1.366;11.118;TINGGI

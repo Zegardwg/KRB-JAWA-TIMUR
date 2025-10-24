@@ -1,8 +1,6 @@
-No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
-A;Kabupaten;;;;;
-1;MALANG;1.234;0;0;1.234;RENDAH
-2;PASURUAN;5.412;787;311;6.511;TINGGI
-3;MOJOKERTO;3.488;1.674;833;5.995;TINGGI
-B;Kota;;;;;
-1;KOTA BATU;2.989;492;77;3.558;TINGGI
-;Provinsi Jawa Timur;13.123;2.954;1.221;17.298;TINGGI
+Jenis Peta;Kabupaten/Kota;Nama Gunung;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
+Peta risiko letusan gunung api arjuno welirang;MALANG;gunung api arjuno welirang;1.234;0;0;1.234;RENDAH
+Peta risiko letusan gunung api arjuno welirang;PASURUAN;gunung api arjuno welirang;5.412;787;311;6.511;TINGGI
+Peta risiko letusan gunung api arjuno welirang;MOJOKERTO;gunung api arjuno welirang;3.488;1.674;833;5.995;TINGGI
+Peta risiko letusan gunung api arjuno welirang;KOTA BATU;gunung api arjuno welirang;2.989;492;77;3.558;TINGGI
+Peta risiko letusan gunung api arjuno welirang;Provinsi Jawa Timur;gunung api arjuno welirang;13.123;2.954;1.221;17.298;TINGGI

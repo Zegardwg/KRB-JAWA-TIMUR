@@ -1,5 +1,5 @@
-No;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
-1;LUMAJANG;3.839;1.894;2.855;8.588;TINGGI
-2;JEMBER;643;0;0;643;RENDAH
-3;PROBOLINGGO;5.699;293;59;6.050;TINGGI
-;Provinsi Jawa Timur;10.181;2.186;2.914;15.281;TINGGI
+Jenis Peta;Nama Gunung;Kabupaten/Kota;Bahaya Luas (Ha) Rendah;Bahaya Luas (Ha) Sedang;Bahaya Luas (Ha) Tinggi;Bahaya Luas (Ha) Total;Kelas Bahaya
+Peta risiko letusan gunung api lamongan;gunung api lamongan;LUMAJANG;3.839;1.894;2.855;8.588;TINGGI
+Peta risiko letusan gunung api lamongan;gunung api lamongan;JEMBER;643;0;0;643;RENDAH
+Peta risiko letusan gunung api lamongan;gunung api lamongan;PROBOLINGGO;5.699;293;59;6.050;TINGGI
+Peta risiko letusan gunung api lamongan;gunung api lamongan;Provinsi Jawa Timur;10.181;2.186;2.914;15.281;TINGGI
